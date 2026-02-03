@@ -28,6 +28,8 @@ The analysis reveals recurring manufacturing-related leak failures, evidence of 
   - **Component Tags** (what failed)  
   - **Severity Tags** (impact level)
 
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/4f395150-cb93-470b-9249-929b5fa70018" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/bba7bd2e-7668-49c0-a828-73da377705ae" />
 
 **Output Files:**  
 - `cleaned_data_task1.xlsx`  
@@ -41,7 +43,9 @@ The analysis reveals recurring manufacturing-related leak failures, evidence of 
 - Identified primary keys in both datasets  
 - Determined that no logical business join existed  
 - Executed **Full Outer Join** to preserve all records  
-- Created unified fleet-level dataset  
+- Created unified fleet-level dataset
+- <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/06f5be4d-f020-4c2a-933b-61eacef58a31" />
+- <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/599029ae-9c7e-43df-82b6-73bcb3297f1e" />
 
 **Output Files:**  
 - `cleaned_data_task2.xlsx`  
